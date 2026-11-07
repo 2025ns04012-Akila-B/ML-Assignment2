@@ -30,6 +30,7 @@ The `difficulty` column is dropped.
 
 **Live Streamlit App:** <https://ml-assignment2-akila.streamlit.app>
 
+
 ## 4. Models Used
 
 Metrics computed on the 25,195-record hold-out test split (Attack = positive class):
@@ -101,6 +102,7 @@ This project is deployed at <https://ml-assignment2-akila.streamlit.app>
 (repository `2025ns04012-Akila-B/ML-Assignment2`, branch `main`, main file
 `app.py`, Python 3.12).
 
+
 > `scikit-learn` is pinned to the version used to create the `.pkl` files
 > (1.8.0), because pickled models must be loaded with the same version.
 
@@ -137,6 +139,7 @@ This project is deployed at <https://ml-assignment2-akila.streamlit.app>
 **Running the app from the terminal**
 
 ![Running locally](Screenshot/image.png)
+
 
 ## Project Structure
 
